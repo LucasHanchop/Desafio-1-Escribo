@@ -5,7 +5,7 @@ void main() {
 	int resp = functionValues(x);
 	print('O somatório dos valores foi $resp');
 }
-//Função Soma Dívisiveis
+//Função Soma Dívisiveis por 3 e 5
 int functionValues(int valor){
 	int soma = 0;
 	for(int i = 1; i < valor; i++){
